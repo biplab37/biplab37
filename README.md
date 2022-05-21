@@ -1,4 +1,4 @@
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=biplab37)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=biplab37&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biplab37&hide=jupyter%20notebook&layout=compact&langs_count=10)
 <!--
